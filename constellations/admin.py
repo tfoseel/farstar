@@ -1,3 +1,7 @@
 from django.contrib import admin
+from .models import Constellation
 
-# Register your models here.
+
+@admin.register(Constellation)
+class ConstellationAdmin(admin.ModelAdmin):
+    list_display = ('name', 'description')

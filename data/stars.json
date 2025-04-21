@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Betelgeuse",
+        "constellation": "Orion",
+        "ra": 88.7929,
+        "dec": 7.4071,
+        "magnitude": 0.42,
+        "spectral_type": "M2Iab"
+    },
+    {
+        "name": "Bellatrix",
+        "constellation": "Orion",
+        "ra": 81.2828,
+        "dec": 6.3497,
+        "magnitude": 1.64,
+        "spectral_type": "B2III"
+    },
+    {
+        "name": "Mintaka",
+        "constellation": "Orion",
+        "ra": 83.0017,
+        "dec": -0.2991,
+        "magnitude": 2.25,
+        "spectral_type": "O9.5II"
+    },
+    {
+        "name": "Alnilam",
+        "constellation": "Orion",
+        "ra": 84.0533,
+        "dec": -1.2019,
+        "magnitude": 1.69,
+        "spectral_type": "B0Ia"
+    },
+    {
+        "name": "Alnitak",
+        "constellation": "Orion",
+        "ra": 85.1897,
+        "dec": -1.9426,
+        "magnitude": 1.74,
+        "spectral_type": "O9.7Ib"
+    },
+    {
+        "name": "Saiph",
+        "constellation": "Orion",
+        "ra": 86.9391,
+        "dec": -9.6696,
+        "magnitude": 2.06,
+        "spectral_type": "B0.5Ia"
+    },
+    {
+        "name": "Rigel",
+        "constellation": "Orion",
+        "ra": 78.6345,
+        "dec": -8.2016,
+        "magnitude": 0.13,
+        "spectral_type": "B8Ia"
+    },
+    {
+        "name": "Sirius",
+        "constellation": "Canis Major",
+        "ra": 101.2875,
+        "dec": -16.7161,
+        "magnitude": -1.46,
+        "spectral_type": "A1V"
+    },
+    {
+        "name": "Mirzam",
+        "constellation": "Canis Major",
+        "ra": 95.675,
+        "dec": -17.9559,
+        "magnitude": 1.98,
+        "spectral_type": "B1II"
+    },
+    {
+        "name": "Adhara",
+        "constellation": "Canis Major",
+        "ra": 104.6564,
+        "dec": -28.9721,
+        "magnitude": 1.5,
+        "spectral_type": "B2II"
+    },
+    {
+        "name": "Wezen",
+        "constellation": "Canis Major",
+        "ra": 106.0276,
+        "dec": -26.3932,
+        "magnitude": 1.83,
+        "spectral_type": "F8Ia"
+    }
+]

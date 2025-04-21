@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Orion",
+        "description": "사냥꾼 별자리",
+        "connections": [
+            [
+                "Betelgeuse",
+                "Bellatrix"
+            ],
+            [
+                "Bellatrix",
+                "Mintaka"
+            ],
+            [
+                "Mintaka",
+                "Alnilam"
+            ],
+            [
+                "Alnilam",
+                "Alnitak"
+            ],
+            [
+                "Alnitak",
+                "Saiph"
+            ],
+            [
+                "Saiph",
+                "Rigel"
+            ]
+        ]
+    },
+    {
+        "name": "Canis Major",
+        "description": "큰개자리",
+        "connections": [
+            [
+                "Sirius",
+                "Mirzam"
+            ],
+            [
+                "Mirzam",
+                "Adhara"
+            ],
+            [
+                "Adhara",
+                "Wezen"
+            ]
+        ]
+    }
+]

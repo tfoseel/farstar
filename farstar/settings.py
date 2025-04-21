@@ -59,7 +59,7 @@ INSTALLED_APPS = [
     'posts',
     'lumen',
     'payments',
-    'skylogic',
+    'stars'
 ]
 
 MIDDLEWARE = [
